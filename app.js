@@ -9,7 +9,7 @@ var config = {
   app_name: 'MyDiceGame',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfbYBYUAAAAAPAoa91RE1BBPipdrudyqJckGVQd',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LfbYBYUAAAAAO3nIvx6I6Yj1QvV3yhoAOqc8uAn',  // <----- EDIT ME!
   redirect_uri: 'https://lupandina.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
